@@ -20,5 +20,3 @@ Utilize os itens armazenados no seu [inventário](inventario/pergaminho-do-contr
 <table><thead><tr><th width="410">Item</th><th>Descrição</th></tr></thead><tbody><tr><td>📜 <a href="inventario/pergaminho-do-controle-temporal-de-codigos.md"><strong>Pergaminho do Controle Temporal de Códigos</strong></a></td><td>Glossário estruturado em seções temáticas com os termos mais comuns de Versionamento de Código, Git e GitHub.</td></tr></tbody></table>
 
 ***
-
-Feito com 💛 por [Eli](https://github.com/elidianaandrade).
